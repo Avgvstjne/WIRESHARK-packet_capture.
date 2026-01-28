@@ -1,10 +1,10 @@
 # WIRESHARK-packet_capture.
 ---
 
-[Watch Lab Wireshark capture](https://youtu.be/YMm08l1yKA0)
+[Watch Lab Wireshark capture](https://youtu.be/Ym7_a8jiKls)
 
 ---
-pdf
+[View TCPDUMB-WIRESHARK comparison diagram](./docs/TCPDUMP-WIRESHARK_comparison_diagram.pdf)
 
 ---
 
@@ -14,9 +14,9 @@ I analyzed the network packet capture file that contains traffic data related to
 
 This filtering of the data was in order to:
 
-* a. Identify the source and destination IP addresses involved in this web browsing session,
-* b. examine the protocols that are used when the user makes the connection to the website,
-* c. and analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
+* Identify the source and destination IP addresses involved in this web browsing session,
+* examine the protocols that are used when the user makes the connection to the website,
+* and analyze some of the data packets to identify the type of information sent and received by the systems that connect to each other when the network data is captured.
 
 Walkthrough:
 
